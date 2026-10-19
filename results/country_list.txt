@@ -1,0 +1,48 @@
+# Country normalization — AUDIT RESULT: no merges required.
+# The country position of the Affiliations field is already canonical in this export:
+# 'Saudi Arabia' appears 596 times with NO 'KSA' / 'Kingdom of Saudi Arabia' variants.
+# The only decision is a convention, not a variant:
+#   China (23) / Hong Kong (4) / Taiwan (1) are indexed separately by Scopus.
+#   Keep separate (Scopus default) or merge — state whichever you choose in Methods.
+#
+# Observed country tokens (count desc):
+596	Saudi Arabia
+110	Egypt
+61	United States
+34	Malaysia
+25	United Kingdom
+23	China
+20	Australia
+18	Pakistan
+15	Indonesia
+13	Iran
+12	India
+10	Iraq
+9	Greece
+9	Tunisia
+9	Jordan
+8	Sweden
+8	Japan
+8	Germany
+8	Spain
+7	Turkey
+7	Algeria
+7	Canada
+6	Qatar
+6	Oman
+6	Belgium
+4	Nigeria
+4	United Arab Emirates
+4	Hong Kong
+4	Lebanon
+4	Ireland
+4	Finland
+3	Sudan
+3	Poland
+3	Norway
+3	South Africa
+3	Slovakia
+2	Italy
+2	Switzerland
+2	Cyprus
+2	Brazil

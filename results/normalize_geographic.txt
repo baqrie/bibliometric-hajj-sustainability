@@ -1,0 +1,30 @@
+# GEOGRAPHIC keyword normalization (variant<TAB>canonical) — final 434 corpus
+makkah [saudi arabia]	makkah
+mecca	makkah
+mecca city	makkah
+makkah city	makkah
+makkah al-mukarramah	makkah
+makkah al mukarramah	makkah
+makkah al mukarramah region	makkah
+makkah - saudi arabia	makkah
+makkah saudi arabia	makkah
+saudi arabia, makkah	makkah
+makkah region	makkah
+makkah province	makkah
+mecca [saudi arabia]	makkah
+medina [madinah]	madinah
+al-madinah	madinah
+al madinah	madinah
+medina	madinah
+madinah city	madinah
+al-madinah al-munawarah	madinah
+al madinah al munawarah	madinah
+al medina	madinah
+saudi arabia, medina	madinah
+al-madinah al-munawarah province	madinah
+kingdom of saudi arabia	saudi arabia
+ksa	saudi arabia
+saudi	saudi arabia
+western saudi arabia	saudi arabia
+saudi vision 2030	vision 2030
+makkah vision 2030	vision 2030

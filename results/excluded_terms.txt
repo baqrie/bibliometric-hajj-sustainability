@@ -1,0 +1,45 @@
+# Excluded-terms (stop) list — used only for the keyword frequency tables (r_bridge/04_RQ1_performance.R).
+# The maps leave out the five place names (run_analysis.R and vosviewer_thesaurus_final.txt);
+# the VOSviewer thesaurus also maps general indexing terms such as "article" to "ignore".
+# Rationale in two classes. Report this file as supplementary material.
+
+## CLASS 1 — EMTREE / Scopus generic indexing artifacts (not research topics)
+article
+human
+humans
+nonhuman
+controlled study
+priority journal
+review
+male
+female
+adult
+child
+animal
+animals
+procedures
+major clinical study
+chemistry
+analysis
+concentration (composition)
+concentration (parameter)
+metabolism
+physiology
+comparative study
+
+## CLASS 2 — Tautological query-geography terms (present by construction; suppress real topics)
+saudi arabia
+makkah
+mecca
+makkah [saudi arabia]
+jeddah
+madinah
+medina
+riyadh
+middle east
+asia
+western asia
+eurasia
+
+# NOTE: Class 2 removal applies to MAPS only. Geography is still reported in the
+# performance analysis (countries/affiliations tables). Disclose both classes in Methods.

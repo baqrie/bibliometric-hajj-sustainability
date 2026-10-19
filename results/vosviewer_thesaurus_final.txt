@@ -1,0 +1,137 @@
+label	replace by
+makkah [saudi arabia]	saudi arabia
+mecca	saudi arabia
+mecca city	saudi arabia
+makkah city	saudi arabia
+makkah al-mukarramah	saudi arabia
+makkah al mukarramah	saudi arabia
+makkah al mukarramah region	saudi arabia
+makkah - saudi arabia	saudi arabia
+makkah saudi arabia	saudi arabia
+saudi arabia, makkah	saudi arabia
+makkah region	saudi arabia
+makkah province	saudi arabia
+mecca [saudi arabia]	saudi arabia
+medina [madinah]	saudi arabia
+al-madinah	saudi arabia
+al madinah	saudi arabia
+medina	saudi arabia
+madinah city	saudi arabia
+al-madinah al-munawarah	saudi arabia
+al madinah al munawarah	saudi arabia
+al medina	saudi arabia
+saudi arabia, medina	saudi arabia
+al-madinah al-munawarah province	saudi arabia
+haj	hajj
+the hajj	hajj
+hajj pilgrimage	hajj
+hajj and umrah	hajj
+hajj season	hajj
+umra	umrah
+kingdom of saudi arabia	saudi arabia
+ksa	saudi arabia
+saudi	saudi arabia
+western saudi arabia	saudi arabia
+saudi vision 2030	vision 2030
+makkah vision 2030	vision 2030
+solid waste	municipal solid waste
+solid wastes	municipal solid waste
+solid waste management	municipal solid waste
+municipal solid waste (msw)	municipal solid waste
+municipal solid waste management	municipal solid waste
+msw	municipal solid waste
+municipal municipal solid waste	municipal solid waste
+solid waste management systems	municipal solid waste
+solid waste generation	municipal solid waste
+municipal solid waste generation	municipal solid waste
+integrated municipal solid waste management	municipal solid waste
+pm<sub>2.5</sub>	pm2.5
+pm 2.5	pm2.5
+particulate matter 2.5	pm2.5
+fine particulate matter	pm2.5
+fine particulate matter (pm<sub>2.5</sub>)	pm2.5
+pm<sub>10</sub>	pm10
+pm 10	pm10
+particulate matter 10	pm10
+particulate matter (pm<sub>10</sub> )	pm10
+particles (particulate matter)	particulate matter
+particulates	particulate matter
+suspended particulate matter	particulate matter
+co<sub>2</sub>	co2
+co<sub>2</sub> emissions	carbon emissions
+co2 emission	carbon emissions
+carbon dioxide emissions	carbon emissions
+o<sub>3</sub>	ozone
+no<sub>x</sub>	nitrogen oxides
+nh<sub>3</sub>	ammonia
+sustainable development goals (sdgs)	sustainable development goals
+environmental sustainability	sustainability
+wastewater treatment	wastewater
+waste water	wastewater
+solar power	solar energy
+photovoltaic (pv)	photovoltaic
+pv	photovoltaic
+solar photovoltaic	photovoltaic
+gis	geographic information system
+ai	artificial intelligence
+covid 19	covid-19
+covid19	covid-19
+sars-cov-2	covid-19
+heatstroke	heat stroke
+heatstress	heat stress
+heat stress disorders	heat stress
+thermal stress	heat stress
+heat-related illnesses	heat-related illness
+heat related illnesses	heat-related illness
+heat illness	heat-related illness
+heat illnesses	heat-related illness
+heat injury	heat-related illness
+exertional heat illness	heat-related illness
+heat cramp	heat-related illness
+urban heat island (uhi)	urban heat island
+urban heat island (uhi) effect	urban heat island
+urban heat island effect	urban heat island
+urban heat island effects	urban heat island
+heat island	urban heat island
+surface urban heat island	urban heat island
+surface urban heat islands	urban heat island
+uhi	urban heat island
+outdoor thermal comfort	thermal comfort
+indoor thermal comfort	thermal comfort
+thermal exposure	heat exposure
+excessive heat	heat exposure
+heat shock proteins	heat shock protein
+heatwaves	heat wave
+heatwave	heat wave
+asia	ignore
+eurasia	ignore
+jeddah	saudi arabia
+madinah	saudi arabia
+makkah	saudi arabia
+middle east	ignore
+riyadh	saudi arabia
+saudi arabia	saudi arabia
+western asia	ignore
+article	ignore
+human	ignore
+humans	ignore
+nonhuman	ignore
+controlled study	ignore
+priority journal	ignore
+review	ignore
+male	ignore
+female	ignore
+adult	ignore
+child	ignore
+animal	ignore
+animals	ignore
+procedures	ignore
+major clinical study	ignore
+chemistry	ignore
+analysis	ignore
+concentration (composition)	ignore
+concentration (parameter)	ignore
+metabolism	ignore
+physiology	ignore
+comparative study	ignore
+mass gathering	mass gatherings

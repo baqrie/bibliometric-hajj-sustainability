@@ -1,0 +1,16 @@
+VOSviewer 1.6.21: author-keyword co-occurrence map (Figure 2 of the article)
+
+Input file:        db/vosviewer_source_428.csv (written by r_bridge/vosViewer.R; Scopus format; not shared)
+Type of analysis:  co-occurrence
+Unit of analysis:  author keywords
+Counting method:   full counting
+Thesaurus:         results/vosviewer_thesaurus_final.txt
+Minimum number of occurrences of a keyword: 4
+Terms left out:    the thesaurus labels "saudi arabia" (place names from the query, Jeddah and Riyadh) and "ignore"
+Result:            50 terms, 166 links, 7 clusters
+Normalization:     association strength
+Clustering:        resolution 1.00; minimum cluster size 1 (any value up to 4 gives the same map, because the smallest cluster has 4 terms)
+
+Sensitivity runs (Supplementary Table S4c):
+- fractional counting with a minimum of 3, 4 and 5 occurrences;
+- resolution 0.8 and 1.2, with full and with fractional counting, at a minimum of 4 occurrences.

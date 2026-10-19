@@ -1,0 +1,32 @@
+# Affiliation thesaurus — variant<TAB>canonical  (case-insensitive substring match)
+# Built from the 1,691-record export. Counting unit: DOCUMENTS (each institution once per paper).
+# DO-NOT-MERGE warnings are listed at the bottom; they are distinct institutions.
+variant	canonical
+umm al qura university	Umm Al-Qura University
+umm alqura university	Umm Al-Qura University
+umm al-qura university college	Umm Al-Qura University
+the custodian of the two holy mosques institute for hajj and umrah umm al-qura university	Umm Al-Qura University
+king abdul aziz university	King Abdulaziz University
+king abdulazizi university	King Abdulaziz University
+king abdulaziz university hospital	King Abdulaziz University
+al faisaliah king abdulaziz university	King Abdulaziz University
+center king abdulaziz university	King Abdulaziz University
+environment and arid land agriculture king abdulaziz university	King Abdulaziz University
+taibaha university	Taibah University
+taibahu university	Taibah University
+applied college taibah university	Taibah University
+king fahd university of petroleum and minerals	KFUPM
+king fahd university of petroleum & minerals	KFUPM
+research institute of king fahd university	KFUPM
+king abdullah university of science and technology	KAUST
+kaust national transformation institute	KAUST
+king khalid university hospital	King Khalid University
+imam abdul rahman bin faisal university	Imam Abdulrahman Bin Faisal University
+islamic university of madinah	Islamic University of Madinah
+
+# --- DO NOT MERGE (distinct institutions that look similar) ---
+# King Saud University            != King Saud bin Abdulaziz University (separate institutions)
+# King Abdulaziz University       != King Abdullah University of Science and Technology (KAUST)
+# King Fahd University (KFUPM)    != King Fahd Medical Research Center
+# King Khalid University          != King Khalid Wildlife Research Centre
+# Islamic University (of Madinah) != Taibah University (both in Madinah, distinct)

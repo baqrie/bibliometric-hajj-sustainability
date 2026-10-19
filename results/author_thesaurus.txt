@@ -1,0 +1,11 @@
+# Author thesaurus — variant<TAB>canonical
+# APPLIED to final_corpus_normalized.csv (n=434).
+variant	canonical
+AbdelMaksoud A.S.	Abdelmaksoud A.S.
+EL Osta M.	El Osta M.
+Niyazi B.A.M.	Niyazi B.
+Masoud M.H.Z.	Masoud M.
+
+# NOT merged (confirmed distinct people): Ali A. / Ali A.M. / Ali A.B.M. / Ali A.-R.M.
+# Other surname collisions (Alharbi, Alghamdi, Khan, Alamri...) left un-merged:
+#   distinct initials = distinct researchers unless proven otherwise.
